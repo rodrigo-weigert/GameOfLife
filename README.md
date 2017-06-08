@@ -19,4 +19,9 @@ You can also specify the screen size (in cells) and the cell side length (in pix
 
 Default for these are 200, 128, and 5, respectively.
 
+## How to Use
 
+Right mouse button to set cell alive, left mouse button to set cell dead. You can hold and drag the mouse around.
+
+
+![Screenshot of the program](screenshot.png?raw=true "Screenshot")
